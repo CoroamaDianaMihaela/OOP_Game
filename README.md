@@ -1,1 +1,1 @@
-# OOP_Game
+# Battleship Game made with QT
